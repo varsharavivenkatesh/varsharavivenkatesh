@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Varsha Ravivenkatesh
 - 👀 I’m interested in learning new programming languages and creating more projects
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 🌱 I’m currently learning the MERN stack
 - 😄 Pronouns: She/Her
   
 
