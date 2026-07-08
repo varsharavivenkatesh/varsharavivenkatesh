@@ -18,7 +18,7 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 ```typescript
 const varsha = {
@@ -34,7 +34,7 @@ const varsha = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -79,7 +79,7 @@ const varsha = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
@@ -131,7 +131,7 @@ const varsha = {
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Building production mobile features with **React Native** at Buildertrend
 - Driving **50% page load time reduction** using Datadog performance instrumentation
