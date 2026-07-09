@@ -28,7 +28,7 @@ const varsha = {
   currently:  "SWE Intern @ Buildertrend — React Native, C#/.NET, SQL, Datadog",
   research:   "Machine unlearning & bias mitigation in ML @ ISU D4 NRT Program",
   interests:  ["Full-Stack Engineering", "AI/ML", "Cloud Architecture", "Mobile Dev"],
-  funFact:    "I attend weekly customer meetings and write the tickets myself 🛠️"
+ 
 };
 ```
 
